@@ -13,3 +13,4 @@ Each manga chapter is downloaded as a separate directory of png files. All manga
 Selenium is used to control a firefox browser running in a docker container, in order to render the manga pages, and retrieve all image urls. The images are then downloaded en masse.
 Currently only supports `kissmanga.com`, no support yet for `kissmanga.io`, and other tld variants yet.
  
+https://kissmanga.com/Manga/One-Piece-Digital-Colored-Comics
